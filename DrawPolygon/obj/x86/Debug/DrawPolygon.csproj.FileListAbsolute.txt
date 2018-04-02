@@ -1,0 +1,8 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\bin\Debug\DrawPolygon.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\bin\Debug\DrawPolygon.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\DrawPolygon\DrawPolygon\obj\x86\Debug\DrawPolygon.csprojResolveAssemblyReference.cache
